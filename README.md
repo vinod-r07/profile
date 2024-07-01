@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/akash_kr_199" target="blank"><img src="https://img.shields.io/twitter/follow/akash_kr_199?logo=twitter&style=for-the-badge" alt="akash_kr_199" /></a> </p>
 
-- 🌱 I’m currently learning **OOPs, DSA**
+- 🌱 I’m currently learning **Spring, Sprring Boot & Android Development**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **MERN, DSA, OS, DBMS**
 
 - 📫 How to reach me **vkumar.vinod2021@gmail.com**
 
