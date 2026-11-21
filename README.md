@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **vkumar.vinod2021@gmail.com**
 
-- ⚡ Fun fact **i am lucky**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
